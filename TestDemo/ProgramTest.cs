@@ -16,7 +16,7 @@ namespace Demo.Tests
         [TestMethod()]
         public void AddTest()
         {
-            Assert.IsTrue();
+           // Assert.IsTrue();
         }
     }
 }
